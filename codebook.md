@@ -89,7 +89,7 @@ fBodyBodyAccJerkMag-std()
 fBodyBodyGyroMag-mean()    
 fBodyBodyGyroMag-std()     
 fBodyBodyGyroJerkMag-mean() 
-fBodyBodyGyroJerkMag-std()  
+fBodyBodyGyroJerkMag-std()
 
 ## Transformations
 All variables/columns that did not contains a mean or a standard deviation value were removed.  Further, mean variables that did not have a corresponding standard deviation variable were removed as well, based on my understanding of the project's instructions.  Then, all measurements for a specific subject and activity were averaged, producing a single observation for each subject/activity combination.  The set of observations was then ordered by the subject.
