@@ -10,6 +10,7 @@ The 30 subjects are individually denoted by an integer value in the second colum
 
 The activities are listed in the first column of the dataset, named "activity"
 The six possible values for this columns/field are:
+
 1. WALKING
 2. WALKING_UPSTAIRS
 3. WALKING_DOWNSTAIRS
