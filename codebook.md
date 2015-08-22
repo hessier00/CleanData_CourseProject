@@ -28,10 +28,10 @@ The 66 measurements carry the following titles, in order:
 tBodyAcc-mean()-X          
 tBodyAcc-mean()-Y           
 tBodyAcc-mean()-Z
-tBodyAcc-std()-X 
-tBodyAcc-std()-Y 
+tBodyAcc-std()-X
+tBodyAcc-std()-Y
 tBodyAcc-std()-Z
-tGravityAcc-mean()-X 
+tGravityAcc-mean()-X
 tGravityAcc-mean()-Y
 tGravityAcc-mean()-Z 
 tGravityAcc-std()-X
