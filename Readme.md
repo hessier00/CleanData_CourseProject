@@ -2,7 +2,7 @@
 
 Assuming the "UCI HAR Dataset" folder is present in your working directory, the run_analysis.R script performs the following tasks:
 
-1. Reads in the contents of the following files, storing each in its won data.frame:
+1. Reads in the contents of the following files, storing each in its own data.frame:
 	* activity_labels.txt
 	* features.txt
 	* test\X_test.txt
